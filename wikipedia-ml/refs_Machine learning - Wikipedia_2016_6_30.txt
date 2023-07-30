@@ -1,0 +1,34 @@
+ a b http://www.britannica.com/EBchecked/topic/1116194/machine-learning This tertiary source reuses information from other sources but does not name them. 
+ Phil Simon March 18, 2013. Too Big to Ignore: The Business Case for Big Data. Wiley. p. 89. ISBN 978-1-118-63817-0. 
+ Ron Kohavi; Foster Provost 1998. "Glossary of terms". Machine Learning. 30: 271274. 
+ a b c d Machine learning and pattern recognition "can be viewed as two facets of the same field." 
+ Wernick, Yang, Brankov, Yourganov and Strother, Machine Learning in Medical Imaging, IEEE Signal Processing Magazine, vol. 27, no. 4, July 2010, pp. 25-38 
+ Mannila, Heikki 1996. Data mining: machine learning, statistics, and databases. Int'l Conf. Scientific and Statistical Database Management. IEEE Computer Society. 
+ Friedman, Jerome H. 1998. "Data Mining and Statistics: What's the connection?". Computing Science and Statistics. 29 1: 39. 
+ "Machine Learning: What it is and why it matters". www.sas.com. Retrieved 2016-03-29. 
+ Mitchell, T. 1997. Machine Learning, McGraw Hill. ISBN 0-07-042807-7, p.2. 
+ Harnad, Stevan 2008, "The Annotation Game: On Turing 1950 on Computing, Machinery, and Intelligence", in Epstein, Robert; Peters, Grace eds., The Turing Test Sourcebook: Philosophical and Methodological Issues in the Quest for the Thinking Computer, Kluwer citation: Unknown parameter chapterurl ignored chapter-url suggested help 
+ a b c d e Russell, Stuart; Norvig, Peter 2003 . Artificial Intelligence: A Modern Approach 2nd ed.. Prentice Hall. ISBN 978-0137903955. 
+ a b Langley, Pat 2011. "The changing science of machine learning". Machine Learning. 82 3: 275279. doi:10.1007/s10994-011-5242-y. 
+ Le Roux, Nicolas; Bengio, Yoshua; Fitzgibbon, Andrew 2012. "Improving First and Second-Order Methods by Modeling Uncertainty". In Sra, Suvrit; Nowozin, Sebastian; Wright, Stephen J. eds.. Optimization for Machine Learning. MIT Press. p. 404. 
+ a b MI Jordan 2014-09-10. "statistics and machine learning". reddit. Retrieved 2014-10-01. 
+ Cornell University Library. "Breiman : Statistical Modeling: The Two Cultures with comments and a rejoinder by the author". Retrieved 8 August 2015. 
+ Gareth James; Daniela Witten; Trevor Hastie; Robert Tibshirani 2013. An Introduction to Statistical Learning. Springer. p. vii. 
+ Bishop, C. M. 2006, Pattern Recognition and Machine Learning, Springer, ISBN 0-387-31073-8 
+ Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar 2012 Foundations of Machine Learning, MIT Press ISBN 978-0-262-01825-8. 
+ Ethem Alpaydin. "Introduction to Machine Learning" The MIT Press, 2010. 
+ Honglak Lee, Roger Grosse, Rajesh Ranganath, Andrew Y. Ng. "Convolutional Deep Belief Networks for Scalable Unsupervised Learning of Hierarchical Representations" Proceedings of the 26th Annual International Conference on Machine Learning, 2009. 
+ Lu, Haiping; Plataniotis, K.N.; Venetsanopoulos, A.N. 2011. "A Survey of Multilinear Subspace Learning for Tensor Data" PDF. Pattern Recognition. 44 7: 15401551. doi:10.1016/j.patcog.2011.01.004. 
+ Yoshua Bengio 2009. Learning Deep Architectures for AI. Now Publishers Inc. pp. 13. ISBN 978-1-60198-294-0. 
+ A. M. Tillmann, "On the Computational Intractability of Exact and Approximate Dictionary Learning", IEEE Signal Processing Letters 221, 2015: 4549. 
+ Aharon, M, M Elad, and A Bruckstein. 2006. "K-SVD: An Algorithm for Designing Overcomplete Dictionaries for Sparse Representation." Signal Processing, IEEE Transactions on 54 11: 4311-4322 
+ Goldberg, David E.; Holland, John H. 1988. "Genetic algorithms and machine learning". Machine Learning. 3 2: 9599. doi:10.1007/bf00113892. 
+ Michie, D.; Spiegelhalter, D. J.; Taylor, C. C. 1994. Machine Learning, Neural and Statistical Classification. Ellis Horwood. 
+ Zhang, Jun; Zhan, Zhi-hui; Lin, Ying; Chen, Ni; Gong, Yue-jiao; Zhong, Jing-hui; Chung, Henry S.H.; Li, Yun; Shi, Yu-hui 2011. "Evolutionary Computation Meets Machine Learning: A Survey" PDF. Computational Intelligence Magazine. IEEE. 6 4: 6875. doi:10.1109/mci.2011.942584. 
+ Tesauro, Gerald March 1995. "Temporal Difference Learning and TD-Gammon". Communications of the ACM. 38 3: 5868. doi:10.1145/203330.203343. 
+ Daniel Jurafsky and James H. Martin 2009. Speech and Language Processing. Pearson Education. pp. 207 ff.cite book: CS1 maint: uses authors parameter link 
+ "BelKor Home Page" research.att.com 
+ "The Netflix Tech Blog: Netflix Recommendations: Beyond the 5 stars Part 1". Retrieved 8 August 2015. 
+ Scott Patterson 13 July 2010. "'Artificial Intelligence' Gains Fans Among Investors - WSJ". WSJ. Retrieved 8 August 2015. 
+ When A Machine Learning Algorithm Studied Fine Art Paintings, It Saw Things Art Historians Had Never Noticed, The Physics at ArXiv blog 
+ Bostrom, Nick 2011. "The Ethics of Artificial Intelligence" PDF. Retrieved 11 April 2016. 

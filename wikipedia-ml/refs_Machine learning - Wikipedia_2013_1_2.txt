@@ -1,0 +1,8 @@
+ Wernick, Yang, Brankov, Yourganov and Strother, Machine Learning in Medical Imaging, IEEE Signal Processing Magazine, vol. 27, no. 4, July 2010, pp. 25-38 
+ http://holehouse.org/mlclass/0102Introductionregressionanalysisandgr.html 
+  Mitchell, T. 1997. Machine Learning, McGraw Hill. ISBN 0-07-042807-7, p.2. 
+ Harnad, Stevan 2008, "The Annotation Game: On Turing 1950 on Computing, Machinery, and Intelligence", in Epstein, Robert; Peters, Grace eds., The Turing Test Sourcebook: Philosophical and Methodological Issues in the Quest for the Thinking Computer, Kluwer citation: Unknown parameter chapterurl ignored chapter-url suggested help 
+ Christopher M. Bishop 2006 Pattern Recognition and Machine Learning, Springer ISBN 0-387-31073-8. 
+ Yoshua Bengio 2009. Learning Deep Architectures for AI. Now Publishers Inc. p. 13. ISBN 978-1-60198-294-0. 
+ Aharon, M, M Elad, and A Bruckstein. 2006. K-SVD: An Algorithm for Designing Overcomplete Dictionaries for Sparse Representation. Signal Processing, IEEE Transactions on 54 11: 4311-4322 
+ "BelKor Home Page" research.att.com 

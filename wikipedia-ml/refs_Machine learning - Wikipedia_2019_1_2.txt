@@ -1,0 +1,88 @@
+ The definition "without being explicitly programmed" is often attributed to Arthur Samuel, who coined the term "machine learning" in 1959, but the phrase is not found verbatim in this publication, and may be a paraphrase that appeared later. Confer "Paraphrasing Arthur Samuel 1959, the question is: How can computers learn to solve problems without being explicitly programmed?" in Koza, John R.; Bennett, Forrest H.; Andre, David; Keane, Martin A. 1996. Automated Design of Both the Topology and Sizing of Analog Electrical Circuits Using Genetic Programming. Artificial Intelligence in Design '96. Springer, Dordrecht. pp. 151170. doi:10.1007/978-94-009-0279-49. 
+ a b c d Bishop, C. M. 2006, Pattern Recognition and Machine Learning, Springer, ISBN 978-0-387-31073-2 
+ Machine learning and pattern recognition "can be viewed as two facets of the same field.": vii 
+ Friedman, Jerome H. 1998. "Data Mining and Statistics: What's the connection?". Computing Science and Statistics. 29 1: 39. 
+ Samuel, Arthur 1959. "Some Studies in Machine Learning Using the Game of Checkers". IBM Journal of Research and Development. 3 3: 210229. CiteSeerX 10.1.1.368.2254. doi:10.1147/rd.33.0210. 
+ a b Mitchell, T. 1997. Machine Learning. McGraw Hill. p. 2. ISBN 978-0-07-042807-2. 
+ Harnad, Stevan 2008, "The Annotation Game: On Turing 1950 on Computing, Machinery, and Intelligence", in Epstein, Robert; Peters, Grace eds., The Turing Test Sourcebook: Philosophical and Methodological Issues in the Quest for the Thinking Computer, Kluwer citation: Unknown parameter chapterurl ignored chapter-url suggested help 
+ R. Kohavi and F. Provost, "Glossary of terms," Machine Learning, vol. 30, no. 23, pp. 271274, 1998. 
+ Sarle, Warren. "Neural Networks and statistical models". CiteSeerX 10.1.1.27.699. cite journal: Cite journal requires journal help 
+ a b c d e Russell, Stuart; Norvig, Peter 2003 . Artificial Intelligence: A Modern Approach 2nd ed.. Prentice Hall. ISBN 978-0137903955. 
+ a b Langley, Pat 2011. "The changing science of machine learning". Machine Learning. 82 3: 275279. doi:10.1007/s10994-011-5242-y. 
+ Le Roux, Nicolas; Bengio, Yoshua; Fitzgibbon, Andrew 2012. "Improving First and Second-Order Methods by Modeling Uncertainty". In Sra, Suvrit; Nowozin, Sebastian; Wright, Stephen J. eds.. Optimization for Machine Learning. MIT Press. p. 404. 
+ a b Michael I. Jordan 2014-09-10. "statistics and machine learning". reddit. Retrieved 2014-10-01. 
+ Cornell University Library. "Breiman: Statistical Modeling: The Two Cultures with comments and a rejoinder by the author". Retrieved 8 August 2015. 
+ Gareth James; Daniela Witten; Trevor Hastie; Robert Tibshirani 2013. An Introduction to Statistical Learning. Springer. p. vii. 
+ Mohri, Mehryar; Rostamizadeh, Afshin; Talwalkar, Ameet 2012. Foundations of Machine Learning. USA, Massachusetts: MIT Press. ISBN 9780262018258. 
+ a b Alpaydin, Ethem 2010. Introduction to Machine Learning. London: The MIT Press. ISBN 978-0-262-01243-0. Retrieved 4 February 2017. 
+ Russell, Stuart J.; Norvig, Peter 2010. Artificial Intelligence: A Modern Approach Third ed.. Prentice Hall. ISBN 9780136042594. 
+ Mohri, Mehryar; Rostamizadeh, Afshin; Talwalkar, Ameet 2012. Foundations of Machine Learning. The MIT Press. ISBN 9780262018258. 
+ Alpaydin, Ethem 2010. Introduction to Machine Learning. MIT Press. p. 9. ISBN 978-0-262-01243-0. 
+ Jordan, Michael I.; Bishop, Christopher M. 2004. "Neural Networks". In Allen B. Tucker ed.. Computer Science Handbook, Second Edition Section VII: Intelligent Systems. Boca Raton, Florida: Chapman  Hall/CRC Press LLC. ISBN 1-58488-360-X. 
+ a b c Dimitri P. Bertsekas. "Dynamic Programming and Optimal Control: Approximate Dynamic Programming, Vol.II", Athena Scientific, 2012, 
+ a b c Dimitri P. Bertsekas and John N. Tsitsiklis. "Neuro-Dynamic Programming", Athena Scientific, 1996, 
+ van Otterlo, M.; Wiering, M. 2012. "Reinforcement learning and markov decision processes". Reinforcement Learning. Springer Berlin Heidelberg: 342. 
+ Y. Bengio; A. Courville; P. Vincent 2013. "Representation Learning: A Review and New Perspectives". IEEE Trans. PAMI, special issue Learning Deep Architectures. 35: 17981828. arXiv:1206.5538. doi:10.1109/tpami.2013.50. 
+ Nathan Srebro; Jason D. M. Rennie; Tommi S. Jaakkola 2004. Maximum-Margin Matrix Factorization. NIPS. 
+ Coates, Adam; Lee, Honglak; Ng, Andrew Y. 2011. An analysis of single-layer networks in unsupervised feature learning PDF. Int'l Conf. on AI and Statistics AISTATS. 
+ Csurka, Gabriella; Dance, Christopher C.; Fan, Lixin; Willamowski, Jutta; Bray, Cdric 2004. Visual categorization with bags of keypoints PDF. ECCV Workshop on Statistical Learning in Computer Vision. 
+ Daniel Jurafsky; James H. Martin 2009. Speech and Language Processing. Pearson Education International. pp. 145146. 
+ Lu, Haiping; Plataniotis, K.N.; Venetsanopoulos, A.N. 2011. "A Survey of Multilinear Subspace Learning for Tensor Data" PDF. Pattern Recognition. 44 7: 15401551. doi:10.1016/j.patcog.2011.01.004. 
+ Yoshua Bengio 2009. Learning Deep Architectures for AI. Now Publishers Inc. pp. 13. ISBN 978-1-60198-294-0. 
+ Tillmann, A. M. 2015. "On the Computational Intractability of Exact and Approximate Dictionary Learning". IEEE Signal Processing Letters. 22 1: 4549. arXiv:1405.6664. Bibcode:2015ISPL...22...45T. doi:10.1109/LSP.2014.2345761. 
+ Aharon, M, M Elad, and A Bruckstein. 2006. "K-SVD: An Algorithm for Designing Overcomplete Dictionaries for Sparse Representation." Signal Processing, IEEE Transactions on 54 11: 43114322 
+ Zimek, Arthur; Schubert, Erich 2017, "Outlier Detection", Encyclopedia of Database Systems, Springer New York, pp. 15, doi:10.1007/978-1-4899-7993-380719-1, ISBN 9781489979933, retrieved 2018-08-16 
+ Hodge, V. J.; Austin, J. 2004. "A Survey of Outlier Detection Methodologies" PDF. Artificial Intelligence Review. 22 2: 85126. CiteSeerX 10.1.1.318.4023. doi:10.1007/s10462-004-4304-y. 
+ Dokas, Paul; Ertoz, Levent; Kumar, Vipin; Lazarevic, Aleksandar; Srivastava, Jaideep; Tan, Pang-Ning 2002. "Data mining for network intrusion detection" PDF. Proceedings NSF Workshop on Next Generation Data Mining. 
+ Chandola, V.; Banerjee, A.; Kumar, V. 2009. "Anomaly detection: A survey". ACM Computing Surveys. 41 3: 158. doi:10.1145/1541880.1541882. 
+ Piatetsky-Shapiro, Gregory 1991, Discovery, analysis, and presentation of strong rules, in Piatetsky-Shapiro, Gregory; and Frawley, William J.; eds., Knowledge Discovery in Databases, AAAI/MIT Press, Cambridge, MA. 
+ "How Does Association Learning Work?". deepai.org. 
+ Bassel, George W.; Glaab, Enrico; Marquez, Julietta; Holdsworth, Michael J.; Bacardit, Jaume 2011-09-01. "Functional Network Construction in Arabidopsis Using Rule-Based Machine Learning on Large-Scale Data Sets". The Plant Cell. 23 9: 31013116. doi:10.1105/tpc.111.088153. ISSN 1532-298X. PMC 3203449. PMID 21896882. 
+ Agrawal, R.; Imieliski, T.; Swami, A. 1993. "Mining association rules between sets of items in large databases". Proceedings of the 1993 ACM SIGMOD international conference on Management of data - SIGMOD '93. p. 207. doi:10.1145/170035.170072. ISBN 0897915925. 
+ Urbanowicz, Ryan J.; Moore, Jason H. 2009-09-22. "Learning Classifier Systems: A Complete Introduction, Review, and Roadmap". Journal of Artificial Evolution and Applications. 2009: 125. doi:10.1155/2009/736398. ISSN 1687-6229. 
+ Plotkin G.D. Automatic Methods of Inductive Inference, PhD thesis, University of Edinburgh, 1970. 
+ Shapiro, Ehud Y. Inductive inference of theories from facts, Research Report 192, Yale University, Department of Computer Science, 1981. Reprinted in J.-L. Lassez, G. Plotkin Eds., Computational Logic, The MIT Press, Cambridge, MA, 1991, pp. 199254. 
+ Shapiro, Ehud Y. 1983. Algorithmic program debugging. Cambridge, Mass: MIT Press. ISBN 0-262-19218-7 
+ Shapiro, Ehud Y. "The model inference system." Proceedings of the 7th international joint conference on Artificial intelligence-Volume 2. Morgan Kaufmann Publishers Inc., 1981. 
+ "Artificial Neural Networks as Models of Neural Information Processing  Frontiers Research Topic". Retrieved 2018-02-20. 
+ "Build with AI  DeepAI". DeepAI. Retrieved 2018-10-06. 
+ Honglak Lee, Roger Grosse, Rajesh Ranganath, Andrew Y. Ng. "Convolutional Deep Belief Networks for Scalable Unsupervised Learning of Hierarchical Representations" Proceedings of the 26th Annual International Conference on Machine Learning, 2009. 
+ Cortes, Corinna; Vapnik, Vladimir N. 1995. "Support-vector networks". Machine Learning. 20 3: 273297. doi:10.1007/BF00994018. 
+ Goldberg, David E.; Holland, John H. 1988. "Genetic algorithms and machine learning". Machine Learning. 3 2: 9599. doi:10.1007/bf00113892. 
+ Michie, D.; Spiegelhalter, D. J.; Taylor, C. C. 1994. "Machine Learning, Neural and Statistical Classification". Ellis Horwood Series in Artificial Intelligence. Bibcode:1994mlns.book.....M. 
+ Zhang, Jun; Zhan, Zhi-hui; Lin, Ying; Chen, Ni; Gong, Yue-jiao; Zhong, Jing-hui; Chung, Henry S.H.; Li, Yun; Shi, Yu-hui 2011. "Evolutionary Computation Meets Machine Learning: A Survey" PDF. Computational Intelligence Magazine. 6 4: 6875. doi:10.1109/mci.2011.942584. 
+ Bridge, James P., Sean B. Holden, and Lawrence C. Paulson. "Machine learning for first-order theorem proving." Journal of automated reasoning 53.2 2014: 141172. 
+ Loos, Sarah, et al. "Deep Network Guided Proof Search." arXiv preprint arXiv:1701.06972 2017. 
+ Finnsson, Hilmar, and Yngvi Bjrnsson. "Simulation-Based Approach to General Game Playing." AAAI. Vol. 8. 2008. 
+ Sarikaya, Ruhi, Geoffrey E. Hinton, and Anoop Deoras. "Application of deep belief networks for natural language understanding." IEEE/ACM Transactions on Audio, Speech and Language Processing TASLP 22.4 2014: 778784. 
+ "AI-based translation to soon reach human levels: industry officials". Yonhap news agency. Retrieved 4 Mar 2017. 
+ "BelKor Home Page" research.att.com 
+ "The Netflix Tech Blog: Netflix Recommendations: Beyond the 5 stars Part 1". Retrieved 8 August 2015. 
+ Scott Patterson 13 July 2010. "Letting the Machines Decide". The Wall Street Journal. Retrieved 24 June 2018. 
+ Vonod Khosla January 10, 2012. "Do We Need Doctors or Algorithms?". Tech Crunch. 
+ When A Machine Learning Algorithm Studied Fine Art Paintings, It Saw Things Art Historians Had Never Noticed, The Physics at ArXiv blog 
+ "Why Machine Learning Models Often Fail to Learn: QuickTake QA". Bloomberg.com. 2016-11-10. Retrieved 2017-04-10. 
+ "The First Wave of Corporate AI Is Doomed to Fail". Harvard Business Review. 2017-04-18. Retrieved 2018-08-20. 
+ "Why the A.I. euphoria is doomed to fail". VentureBeat. 2016-09-18. Retrieved 2018-08-20. 
+ "9 Reasons why your machine learning project will fail". www.kdnuggets.com. Retrieved 2018-08-20. 
+ "Why Uber's self-driving car killed a pedestrian". The Economist. Retrieved 2018-08-20. 
+ "IBM's Watson recommended 'unsafe and incorrect' cancer treatments - STAT". STAT. 2018-07-25. Retrieved 2018-08-21. 
+ Hernandez, Daniela; Greenwald, Ted 2018-08-11. "IBM Has a Watson Dilemma". Wall Street Journal. ISSN 0099-9660. Retrieved 2018-08-21. 
+ Cite error: The named reference :1 was invoked but never defined see the help page.
+ Garcia, Megan 2016. "Racist in the Machine". World Policy Journal. 33 4: 111117. doi:10.1215/07402775-3813015. ISSN 0740-2775. 
+ Caliskan, Aylin; Bryson, Joanna J.; Narayanan, Arvind 2017-04-14. "Semantics derived automatically from language corpora contain human-like biases". Science. 356 6334: 183186. arXiv:1608.07187. Bibcode:2017Sci...356..183C. doi:10.1126/science.aal4230. ISSN 0036-8075. PMID 28408601. 
+ Wang, Xinan; Dasgupta, Sanjoy 2016, Lee, D. D.; Sugiyama, M.; Luxburg, U. V.; Guyon, I. eds., "An algorithm for L1 nearest neighbor search via monotonic embedding" PDF, Advances in Neural Information Processing Systems 29, Curran Associates, Inc., pp. 983991, retrieved 2018-08-20 
+ "Machine Bias". ProPublica. Julia Angwin, Jeff Larson, Lauren Kirchner, Surya Mattu. 2016-05-23. Retrieved 2018-08-20. cite web: Cite has empty unknown parameter: dead-url helpCS1 maint: others link 
+ "Opinion  When an Algorithm Helps Send You to Prison". New York Times. Retrieved 2018-08-20. 
+ "Google apologises for racist blunder". BBC News. 2015-07-01. Retrieved 2018-08-20. 
+ "Google 'fixed' its racist algorithm by removing gorillas from its image-labeling tech". The Verge. Retrieved 2018-08-20. 
+ "Opinion  Artificial Intelligence's White Guy Problem". New York Times. Retrieved 2018-08-20. 
+ Metz, Rachel. "Why Microsoft's teen chatbot, Tay, said lots of awful things online". MIT Technology Review. Retrieved 2018-08-20. 
+ Simonite, Tom. "Microsoft says its racist chatbot illustrates how AI isn't adaptable enough to help most businesses". MIT Technology Review. Retrieved 2018-08-20. 
+ Kohavi, Ron 1995. "A Study of Cross-Validation and Bootstrap for Accuracy Estimation and Model Selection" PDF. International Joint Conference on Artificial Intelligence. 
+ Pontius, Robert Gilmore; Si, Kangping 2014. "The total operating characteristic to measure diagnostic ability for multiple thresholds". International Journal of Geographical Information Science. 28 3: 570583. doi:10.1080/13658816.2013.862623. 
+ Bostrom, Nick 2011. "The Ethics of Artificial Intelligence" PDF. Retrieved 11 April 2016. 
+ Edionwe, Tolulope. "The fight against racist algorithms". The Outline. Retrieved 17 November 2017. 
+ Jeffries, Adrianne. "Machine learning is racist because the internet is racist". The Outline. Retrieved 17 November 2017. 
+ Narayanan, Arvind August 24, 2016. "Language necessarily contains human biases, and so will machines trained on language corpora". Freedom to Tinker. 
+ Char, D. S.; Shah, N. H.; Magnus, D. 2018. "Implementing Machine Learning in Health CareAddressing Ethical Challenges". New England Journal of Medicine. 378 11: 981983. doi:10.1056/nejmp1714229. PMC 5962261. PMID 29539284. 
